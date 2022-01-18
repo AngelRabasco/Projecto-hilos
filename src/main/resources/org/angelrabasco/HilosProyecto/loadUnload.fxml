@@ -16,13 +16,10 @@
       </ImageView>
       <Text fx:id="planeTitle1" layoutX="245.0" layoutY="37.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Avión 1" />
       <Slider fx:id="sliderPlane1" blockIncrement="1.0" layoutX="195.0" layoutY="49.0" majorTickUnit="1.0" max="25.0" min="5.0" minorTickCount="1" showTickLabels="true" showTickMarks="true" snapToTicks="true" value="5.0" />
-      <Text fx:id="planeCounter1" layoutX="183.0" layoutY="61.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
       <Text fx:id="planeTitle2" layoutX="389.0" layoutY="37.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Avión 2" />
       <Slider fx:id="sliderPlane2" blockIncrement="1.0" layoutX="339.0" layoutY="49.0" majorTickUnit="1.0" max="25.0" min="5.0" minorTickCount="1" showTickLabels="true" showTickMarks="true" snapToTicks="true" value="5.0" />
-      <Text fx:id="planeCounter2" layoutX="482.0" layoutY="62.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
       <Text fx:id="planeTitle3" layoutX="319.0" layoutY="106.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Avión 3" />
       <Slider fx:id="sliderPlane3" blockIncrement="1.0" layoutX="269.0" layoutY="118.0" majorTickUnit="1.0" max="25.0" min="5.0" minorTickCount="1" showTickLabels="true" showTickMarks="true" snapToTicks="true" value="5.0" />
-      <Text fx:id="planeCounter3" layoutX="409.0" layoutY="131.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0" />
       <Button fx:id="button" layoutX="111.0" layoutY="196.0" mnemonicParsing="false" onAction="#beginOperations" text="Empezar" />
    </children>
 </AnchorPane>

@@ -18,22 +18,16 @@ public class LoadUnloadController {
 	private Text planeTitle1;
 	@FXML
 	private Slider sliderPlane1;
-	@FXML
-	private Text planeCounter1;
 
 	@FXML
 	private Text planeTitle2;
 	@FXML
 	private Slider sliderPlane2;
-	@FXML
-	private Text planeCounter2;
 
 	@FXML
 	private Text planeTitle3;
 	@FXML
 	private Slider sliderPlane3;
-	@FXML
-	private Text planeCounter3;
 	
 	@FXML
 	private Button button;
